@@ -39,7 +39,7 @@ Explore various scripts for:
 Contributions are welcome! Please feel free to submit pull requests or open issues.
 
 ## License
-[Add your license information here]
+MIT(https://github.com/0xprathamesh/YahooFinance-Python/blob/master/LICENSE)
 
 ## Disclaimer
 The scripts in this repository are for educational purposes. Always do your own research before making financial decisions.
